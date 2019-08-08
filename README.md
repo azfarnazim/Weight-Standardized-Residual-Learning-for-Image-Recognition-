@@ -1,3 +1,5 @@
+### This is the code base for the paper: "Weight Standardized Residual Learning for Image Recognition"
+
 # Train CIFAR10 with ResNet18, ResNet50 and ResNet101 by implementing Weight Standardization on PyTorch
 
 I'm playing with [PyTorch](http://pytorch.org/) on the CIFAR10 dataset.
