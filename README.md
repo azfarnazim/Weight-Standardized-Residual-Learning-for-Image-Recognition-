@@ -20,4 +20,4 @@ I manually change the `lr` during training:
 - `0.01` for epoch `[150,250)`
 - `0.001` for epoch `[250,350)`
 
-Start the training with'`python main.py --lr=0.1'
+Start the training with 'python main.py --lr=0.1'
